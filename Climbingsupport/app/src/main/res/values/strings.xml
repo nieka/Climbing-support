@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Climbing support</string>
+    <string name="title_activity_gear_list">GearList</string>
+    <string name="title_activity_top_list">TopListActivity</string>
+
+    <!--Home view-->
+    <string name="gear_list_button">Uitrusting</string>
+    <string name="top_list_button">Beklommen routes</string>
+</resources>
